@@ -1,0 +1,20 @@
+body{
+    color: darkblue;
+    background-color: beige;
+}
+ul {
+    list-style-type: none;
+}
+a:link{
+    color:black;
+    background-color: aqua;
+}
+a:visited{
+    color:brown;
+    background-color:darkgray;
+}
+a:hover{
+    color:blueviolet;
+    background-color: aquamarine;
+    text-decoration: none;
+}
